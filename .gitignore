@@ -1,0 +1,17 @@
+# Compiled binaries / build output
+build/
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dll
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
